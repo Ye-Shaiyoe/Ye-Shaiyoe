@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ye-Shaiyoe
 
-<!--
-**Ye-Shaiyoe/Ye-Shaiyoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Ye-Shaiyoe**.
 
-Here are some ideas to get you started:
+I work across the stack —  
+from **bare metal and low-level systems**  
+to **high-level software, automation, and web**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Focus
+- Low-level: **C, Assembly, OS, Systems Programming**
+- High-level: **Go, Python, PHP**
+- Platform: **Linux (Arch) and Windows 11**
+- Security-aware, performance-driven
+
+## 🛠️ Stack
+- **Languages:** C, Go, Python, Bash, ASM  
+- **Environment:** Arch Linux, CLI-first  
+- **Tools:** Git, Neovim, VS Code
+
+## 📍 Direction
+Build fast.  
+Understand deep.  
+Control the system — not just use it.
