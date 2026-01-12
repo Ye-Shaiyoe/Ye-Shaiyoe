@@ -9,13 +9,30 @@ to **high-level software, automation, and web**.
 ## 🧠 Focus
 - Low-level: **C, Assembly, OS, Systems Programming**
 - High-level: **Go, Python, PHP**
-- Platform: **Linux (Arch) and Windows 11**
+- Platform: **Linux (Arch) & Windows 11**
 - Security-aware, performance-driven
 
 ## 🛠️ Stack
-- **Languages:** C, Go, Python, Bash, ASM  
-- **Environment:** Arch Linux, CLI-first  
-- **Tools:** Git, Neovim, VS Code
+
+### Languages
+![C](https://img.shields.io/badge/C-black?logo=c)
+![Go](https://img.shields.io/badge/Go-black?logo=go)
+![Python](https://img.shields.io/badge/Python-black?logo=python)
+![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash)
+![ASM](https://img.shields.io/badge/Assembly-black)
+
+### Environment
+![Arch](https://img.shields.io/badge/OS-Arch%20Linux-black?logo=archlinux&logoColor=blue)
+![Windows](https://img.shields.io/badge/OS-Windows%2011-black?logo=windows)
+![CLI](https://img.shields.io/badge/Workflow-CLI--First-black)
+
+### Tools
+![Vim](https://img.shields.io/badge/Text%20Editor-Vim-black?logo=vim&logoColor=green)
+![Neovim](https://img.shields.io/badge/Editor-Neovim-black?logo=neovim&logoColor=brightgreen)
+![VSCode](https://img.shields.io/badge/IDE-VS%20Code-black?logo=visualstudiocode&logoColor=blue)
+![Git](https://img.shields.io/badge/VCS-Git-black?logo=git&logoColor=red)
+![GCC](https://img.shields.io/badge/Compiler-GCC-black?logo=gnu)
+![GDB](https://img.shields.io/badge/Debugger-GDB-black)
 
 ## 📍 Direction
 Build fast.  
