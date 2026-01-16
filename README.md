@@ -18,11 +18,11 @@ to **high-level software, automation, and web**.
 
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"  width="40" height="40" alt="C" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"  width="40" height="40" alt="Cpp" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"  width="40" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/assembly/assembly.png"  width="40" height="40" alt="ASM" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"  width="40" height="40" alt="Laravel" />
 </p>
-![Go](https://img.shields.io/badge/Go-black?logo=go)
-![Python](https://img.shields.io/badge/Python-black?logo=python)
-![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash)
-![ASM](https://img.shields.io/badge/Assembly-black)
 
 ### Environment
 <p>
