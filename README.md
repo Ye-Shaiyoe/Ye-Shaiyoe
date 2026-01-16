@@ -23,7 +23,7 @@ to **high-level software, automation, and web**.
 
 ### Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=arch,windows,linux" alt="Environment" />
+  <img src="https://skillicons.dev/icons?i=arch,windows11,linux" alt="Environment" />
 </p>
 
 ### Tools
