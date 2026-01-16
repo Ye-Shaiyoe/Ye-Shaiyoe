@@ -17,11 +17,11 @@ to **high-level software, automation, and web**.
 ### Languages
 
 <p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"  width="40" height="40" alt="C" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"  width="40" height="40" alt="Cpp" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"  width="40" height="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/assembly/assembly.png"  width="40" height="40" alt="ASM" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"  width="40" height="40" alt="Laravel" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"  width="50" height="50" alt="C" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"  width="50" height="50" alt="Cpp" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"  width="50" height="50" alt="Python" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/assembly/assembly.png"  width="50" height="50" alt="ASM" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"  width="50" height="50" alt="Laravel" />
 </p>
 
 ### Environment
