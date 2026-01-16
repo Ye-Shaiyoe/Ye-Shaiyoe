@@ -22,9 +22,9 @@ to **high-level software, automation, and web**.
 ![ASM](https://img.shields.io/badge/Assembly-black)
 
 ### Environment
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white&style=flat)
-![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?logo=windows11&logoColor=white&style=flat)
-![CLI](https://img.shields.io/badge/CLI--First-000000?style=flat)
+![](https://img.shields.io/badge/-black?logo=archlinux&logoColor=1793D1&style=flat)
+![](https://img.shields.io/badge/-black?logo=windows11&logoColor=0078D4&style=flat)
+![](https://img.shields.io/badge/-black?logo=gnubash&logoColor=4EAA25&style=flat)
 
 ### Tools
 ![Vim](https://img.shields.io/badge/Text%20Editor-Vim-black?logo=vim&logoColor=green)
