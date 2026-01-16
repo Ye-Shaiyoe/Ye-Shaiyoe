@@ -15,9 +15,9 @@ to **high-level software, automation, and web**.
 ## 🛠️ Stack
 
 ### Languages
-![C](https://img.shields.io/badge/C-black?logo=c)
-![Go](https://img.shields.io/badge/Go-black?logo=go)
-[![PHP](https://img.shields.io/badge/PHP-black?logo=php)](https://raw.githubusercontent.com/github/explore/main/topics/php/php.png)
+![C](https://raw.githubusercontent.com/github/explore/main/topics/c/c.png)
+![CPP](https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png)
+[![PHP](https://raw.githubusercontent.com/github/explore/main/topics/php/php.png)
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
 ![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash)
 ![ASM](https://img.shields.io/badge/Assembly-black)
