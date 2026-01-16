@@ -21,9 +21,11 @@ to **high-level software, automation, and web**.
 ![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash)
 ![ASM](https://img.shields.io/badge/Assembly-black)
 
+### Environment
 <p>
   <img src="https://skillicons.dev/icons?i=arch,windows,linux" alt="Environment" />
 </p>
+
 ### Tools
 ![Vim](https://img.shields.io/badge/Text%20Editor-Vim-black?logo=vim&logoColor=green)
 ![Neovim](https://img.shields.io/badge/Editor-Neovim-black?logo=neovim&logoColor=brightgreen)
