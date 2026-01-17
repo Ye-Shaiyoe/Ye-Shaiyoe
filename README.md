@@ -25,11 +25,14 @@ to **high-level software, automation, and web**.
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"  width="50" height="50" alt="golang" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"  width="50" height="50" alt="mysql" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"  width="50" height="50" alt="JS" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" width="50" height="50" alt="bash"/>
 </p>
 
 ### Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=arch,windows,linux,cli" alt="Environment" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png"  width="50" height="50" alt="Arch" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png"  width="50" height="50" alt="Windows 11" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cli/cli.png" width="50" height="50" alt="cli" />
 </p>
 
 ### Tools
