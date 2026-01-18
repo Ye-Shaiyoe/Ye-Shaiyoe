@@ -41,7 +41,7 @@ to **high-level software, automation, and web**.
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png" width="50" height="50" alt="vim"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="50" height="50" alt="vscode"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png" width="50" height="50" alt="neovim"/>
-  <<img width="50" height="50" alt="copy" src="https://github.com/user-attachments/assets/ef40b54a-a901-471b-b518-251550e09056" />
+  <img width="50" height="50" alt="copy" src="https://github.com/user-attachments/assets/ef40b54a-a901-471b-b518-251550e09056" />
 </p>
 
 ## 📍 Direction
