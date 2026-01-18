@@ -37,12 +37,10 @@ to **high-level software, automation, and web**.
 </p>
 
 ### Tools
-![Vim](https://img.shields.io/badge/Text%20Editor-Vim-black?logo=vim&logoColor=green)
-![Neovim](https://img.shields.io/badge/Editor-Neovim-black?logo=neovim&logoColor=brightgreen)
-[![VSCode](https://img.shields.io/badge/IDE-VS%20Code-black?logo=visualstudiocode&logoColor=blue)](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
-![Git](https://img.shields.io/badge/VCS-Git-black?logo=git&logoColor=red)
-![GCC](https://img.shields.io/badge/Compiler-GCC-black?logo=gnu)
-![GDB](https://img.shields.io/badge/Debugger-GDB-black)
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png" width="50" height="50" alt="vim"/>
+  
+</p>
 
 ## 📍 Direction
 Build fast.  
