@@ -41,7 +41,7 @@ to **high-level software, automation, and web**.
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png" width="50" height="50" alt="vim"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="50" height="50" alt="vscode"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png" width="50" height="50" alt="neovim"/>
-  <img src="https://download.logo.wine/logo/Automake/Automake-Logo.wine.png" width="50" height="50" alt="neovim"/>
+  <img src="https://download.logo.wine/logo/Automake/Automake-Logo.wine.png" width="100" height="100" alt="gcc"/>
 </p>
 
 ## 📍 Direction
