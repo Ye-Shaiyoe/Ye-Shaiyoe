@@ -40,7 +40,6 @@ to **high-level software, automation, and web**.
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png" width="50" height="50" alt="vim"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="50" height="50" alt="vscode"/>
-  <img src="https://raw.githubusercontent.com/git5ub/explore/main/topics/leptop/leptop.png" width="50" height="50" alt="neovim"/>
   <img width="60" height="60" alt="copy" src="https://github.com/user-attachments/assets/ef40b54a-a901-471b-b518-251550e09056" />
 </p>
 
