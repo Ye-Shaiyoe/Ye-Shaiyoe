@@ -31,8 +31,7 @@ to **high-level software, automation, and web**.
 ### Environment
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png"  width="50" height="50" alt="Arch" />
-</p>
-<p>
+
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png"  width="50" height="50" alt="Windows 11" />
 </p>
 
