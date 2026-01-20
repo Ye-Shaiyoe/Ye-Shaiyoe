@@ -7,7 +7,7 @@ from **bare metal and low-level systems**
 to **high-level software, automation, and web**.
 
 ## 🧠 Focus
-- Low-level: **C, Assembly, OS, Systems Programming**
+- Low-level: **C, Assembly, C++, OS, Systems Programming**
 - High-level: **Go, Python, PHP**
 - Platform: **Linux (Arch) & Windows 11**
 - Security-aware, performance-driven
