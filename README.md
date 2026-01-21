@@ -46,3 +46,4 @@ to **high-level software, automation, and web**.
 Build fast.  
 Understand deep.  
 Control the system — not just use it.
+solo programmer
