@@ -2,7 +2,7 @@
 
 Hi, I'm **Ye-Shaiyoe**.
 
-I work across the stack —  
+I work across the stack  
 from **bare metal and low-level systems**  
 to **high-level software, automation, and web**.
 
