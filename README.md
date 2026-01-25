@@ -1,6 +1,7 @@
 # Ye-Shaiyoe
 
-Hi, I'm **Ye-Shaiyoe**.
+Hi, I'm **Muhammad Yusuf Akram**.
+You can call me **Akram**.
 
 I work across the stack  
 from **bare metal and low-level systems**  
