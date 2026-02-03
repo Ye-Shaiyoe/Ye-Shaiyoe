@@ -2,7 +2,6 @@
 
 Hi, I'm **Muhammad Yusuf Akram**. <br>
 You can call me **Akram**. <br>
-
 And im 17y old.
 
 I work across the stack  
