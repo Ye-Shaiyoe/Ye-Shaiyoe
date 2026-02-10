@@ -43,6 +43,7 @@ to **high-level software, automation, and web**.
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="50" height="50" alt="vscode"/>
   <img width="60" height="60" alt="copy" src="https://github.com/user-attachments/assets/ef40b54a-a901-471b-b518-251550e09056" />
   <img width="50" height="50" alt="cursor" src="https://github.com/user-attachments/assets/a46c1dc2-79ba-418c-8c72-ed1d983db794" />
+   <img width="50" height="50" alt="shell" src="https://w7.pngwing.com/pngs/981/872/png-transparent-computer-terminal-computer-icons-linux-console-terminal-emulator-linux-logo-desktop-wallpaper-linux-thumbnail.png" />
 </p>
 
 ## 📍 Direction
