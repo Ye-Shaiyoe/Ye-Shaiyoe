@@ -25,7 +25,8 @@ to **high-level software, automation, and web**.
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/assembly/assembly.png"  width="50" height="50" alt="ASM" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"  width="50" height="50" alt="php" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"  width="50" height="50" alt="golang" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"  width="50" height="50" alt="mysql" />
+
+  
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"  width="50" height="50" alt="NodeJS" />
 
 </p>
