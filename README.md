@@ -44,7 +44,8 @@ to **high-level software, automation, and web**.
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png" width="50" height="50" alt="vim"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="50" height="50" alt="vscode"/>
-  <img width="60" height="60" alt="copy" src="https://github.com/user-attachments/assets/ef40b54a-a901-471b-b518-251550e09056" />
+  <img width="51" height="51" alt="image" src="https://github.com/user-attachments/assets/7847b17a-e969-48c7-bed5-409981bf3715" />
+
   <img width="50" height="50" alt="cursor" src="https://github.com/user-attachments/assets/a46c1dc2-79ba-418c-8c72-ed1d983db794" />
   <img width="50" height="50" alt="Qemu--Streamline-Simple-Icons" src="https://github.com/user-attachments/assets/66b02b12-7d8d-4460-bb96-a7c96a0109f8" />
   <img width="50" height="50" alt="pngwing com" src="https://github.com/user-attachments/assets/733e5968-ac9b-4337-806e-a958f2148f17" />
