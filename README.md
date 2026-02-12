@@ -34,7 +34,7 @@ to **high-level software, automation, and web**.
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png"  width="50" height="50" alt=" Arch " />
 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png"  width="50" height="50" alt=" Windows 11 " />
+<img width="50" height="50" alt="pngwing com" src="https://github.com/user-attachments/assets/6e476fe8-0a26-4717-bf6d-f4b60ec94851" />
 </p>
 
 ### Tools
