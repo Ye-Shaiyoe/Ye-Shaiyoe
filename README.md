@@ -44,8 +44,7 @@ to **high-level software, automation, and web**.
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="50" height="50" alt="vscode"/>
   <img width="60" height="60" alt="copy" src="https://github.com/user-attachments/assets/ef40b54a-a901-471b-b518-251550e09056" />
   <img width="50" height="50" alt="cursor" src="https://github.com/user-attachments/assets/a46c1dc2-79ba-418c-8c72-ed1d983db794" />
-  <img width="50" height="30" alt="Qemu_logo svg" src="https://github.com/user-attachments/assets/df8cdd90-62ac-4ff8-8e25-01c1720b5242" />
-
+  <img width="50" height="50" alt="Qemu--Streamline-Simple-Icons" src="https://github.com/user-attachments/assets/66b02b12-7d8d-4460-bb96-a7c96a0109f8" />
   <img width="50" height="50" alt="pngwing com" src="https://github.com/user-attachments/assets/733e5968-ac9b-4337-806e-a958f2148f17" />
   
 
