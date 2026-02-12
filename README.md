@@ -33,7 +33,7 @@ to **high-level software, automation, and web**.
 ### Experience in distros
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png"  width="50" height="50" alt=" Arch " />
-  <img width="50" height="50" alt="" src="https://github.com/user-attachments/assets/816507ba-3dde-429b-be9a-43c88642bfcd" />
+  <img width="50" height="60" alt="" src="https://github.com/user-attachments/assets/816507ba-3dde-429b-be9a-43c88642bfcd" />
   <img width="50" height="50" alt="crux" src="https://github.com/user-attachments/assets/13cd7a30-2694-4949-80f6-0178da9bec20" />
   <img width="50" height="50" alt="pngwing com" src="https://github.com/user-attachments/assets/6e476fe8-0a26-4717-bf6d-f4b60ec94851" />
 </p>
