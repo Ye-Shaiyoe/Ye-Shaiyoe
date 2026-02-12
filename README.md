@@ -30,11 +30,12 @@ to **high-level software, automation, and web**.
 
 </p>
 
-### Environment
+### Experience in distros
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png"  width="50" height="50" alt=" Arch " />
-
-<img width="50" height="50" alt="pngwing com" src="https://github.com/user-attachments/assets/6e476fe8-0a26-4717-bf6d-f4b60ec94851" />
+  <img width="50" height="50" alt="" src="https://github.com/user-attachments/assets/816507ba-3dde-429b-be9a-43c88642bfcd" />
+  <img width="50" height="50" alt="crux" src="https://github.com/user-attachments/assets/13cd7a30-2694-4949-80f6-0178da9bec20" />
+  <img width="50" height="50" alt="pngwing com" src="https://github.com/user-attachments/assets/6e476fe8-0a26-4717-bf6d-f4b60ec94851" />
 </p>
 
 ### Tools
@@ -43,7 +44,10 @@ to **high-level software, automation, and web**.
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="50" height="50" alt="vscode"/>
   <img width="60" height="60" alt="copy" src="https://github.com/user-attachments/assets/ef40b54a-a901-471b-b518-251550e09056" />
   <img width="50" height="50" alt="cursor" src="https://github.com/user-attachments/assets/a46c1dc2-79ba-418c-8c72-ed1d983db794" />
+  <img width="50" height="50" alt="Qemu_logo svg" src="https://github.com/user-attachments/assets/df8cdd90-62ac-4ff8-8e25-01c1720b5242" />
+
   <img width="50" height="50" alt="pngwing com" src="https://github.com/user-attachments/assets/733e5968-ac9b-4337-806e-a958f2148f17" />
+  
 
 </p>
 
