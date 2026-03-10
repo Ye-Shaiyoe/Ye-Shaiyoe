@@ -4,10 +4,6 @@ Hi, I'm **Muhammad Yusuf Akram**. <br>
 You can call me **Akram**. <br>
 And im 17y old.
 
-I work across the stack  
-from **bare metal and low-level systems**  
-to **high-level software, automation, and web**.
-
 ## 🧠 Focus
 - Low-level: **C, Assembly, C++, OS, Systems Programming**
 - High-level: **Go, Python, PHP And JS(Node, Vue)**
