@@ -5,7 +5,7 @@ You can call me **Akram**. <br>
 And im 17y old.
 
 ## 🧠 Focus
-- Low-level: **C, Assembly, C++, OS, Systems Programming**
+- Low-level: **C, Assembly, C++, OS, Rust**
 - High-level: **Go, Python, PHP And JS(Node, Vue)**
 - Platform: **Linux (Arch) & Windows 11**
 - Security-aware, performance-driven
