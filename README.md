@@ -3,7 +3,7 @@
 Hi, I'm **Muhammad Yusuf Akram**. <br>
 You can call me **Akram**. <br>
 And im 17y old. <br>
-Now I'm working at the Metrology Directorate government office.
+Now I am doing field work practice (PKL) at the government office of the metrology directorate
 
 ## 🧠 Focus
 - Low-level: **C, Assembly, C++, OS, Rust**
