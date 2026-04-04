@@ -26,6 +26,7 @@ Now I am doing field work practice (PKL) at the government office of the metrolo
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"  width="50" height="50" alt="golang" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" width="50" height="50" alt="php" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"  width="50" height="50" alt="NodeJS" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" width="50" height="50"/>
 </p>
 
 ### Experience in distros
