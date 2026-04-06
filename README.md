@@ -37,6 +37,7 @@ Now I am doing field work practice (PKL) at the government office of the metrolo
 ### Experience in Operation System & Distro
 <p>
   <img width="50" height="50" alt="windows-color-icon" src="https://github.com/user-attachments/assets/9dee73a4-176b-43af-af48-18e4ec26518e" />
+  <img width="50" height="50" alt="Linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png"  width="50" height="50" alt=" Arch " />
   <img width="50" height="52" alt="pngwing com" src="https://github.com/user-attachments/assets/6e476fe8-0a26-4717-bf6d-f4b60ec94851" />
 </p>
