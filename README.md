@@ -34,10 +34,10 @@ Now I am doing field work practice (PKL) at the government office of the metrolo
   <img src= "https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="50" height="50" alt="Next.JS"/>
 </p>
 
-### Experience in distros
+### Experience in Operation System & Distro
 <p>
+  <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 512 512.02"><path fill="#0078D4" fill-rule="nonzero" d="M0 512.02h242.686V269.335H0V512.02zm0-269.334h242.686V0H0v242.686zm269.314 0H512V0H269.314v242.686zm0 269.334H512V269.335H269.314V512.02z" width="50" height="50"/></svg>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png"  width="50" height="50" alt=" Arch " />
-  <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/b0dae649-bf7e-4ad2-82eb-23dd544b6497" />
   <img width="50" height="52" alt="pngwing com" src="https://github.com/user-attachments/assets/6e476fe8-0a26-4717-bf6d-f4b60ec94851" />
 </p>
 
