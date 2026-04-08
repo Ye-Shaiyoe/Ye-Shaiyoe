@@ -29,6 +29,7 @@ Now I am doing field work practice (PKL) at the government office of the metrolo
 
 ### Framework
 <p>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width=50 height50 alt="React"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"  width="50" height="50" alt="Node.JS" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" width="50" height="50" alt="Laravel;"/>
   <img src= "https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="50" height="50" alt="Next.JS"/>
