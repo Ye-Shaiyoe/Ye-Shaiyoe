@@ -22,35 +22,36 @@ PKL @ **Balai Metrologi Legal** — membangun sistem manajemen surat pemerintah
 
 ## 🛠️ Stack
 
-
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Frameworks
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" width="40" height="40" alt="Laravel" title="Laravel"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40" height="40" alt="React" title="React"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="40" height="40" alt="Node.js" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="40" height="40" alt="Next.js" title="Next.js"/>
+### Frameworks & Runtime
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Actix](https://img.shields.io/badge/Actix-000000?style=flat-square&logo=rust&logoColor=white)
 
 ### OS & Distro
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="40" height="40" alt="Linux" title="Linux"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png" width="40" height="40" alt="Arch Linux" title="Arch Linux"/>
-  <img src="https://github.com/user-attachments/assets/9dee73a4-176b-43af-af48-18e4ec26518e" width="40" height="40" alt="Windows 11" title="Windows 11"/>
-  <img src="https://github.com/user-attachments/assets/6e476fe8-0a26-4717-bf6d-f4b60ec94851" width="40" height="40" alt="Gentoo" title="Gentoo"/>
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white)
 
 ### Tools
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png" width="40" height="40" alt="Vim" title="Vim"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" alt="VS Code" title="VS Code"/>
-  <img src="https://github.com/user-attachments/assets/7847b17a-e969-48c7-bed5-409981bf3715" width="40" height="40" alt="Neovim" title="Neovim"/>
-  <img src="https://github.com/user-attachments/assets/a46c1dc2-79ba-418c-8c72-ed1d983db794" width="40" height="40" alt="Cursor" title="Cursor"/>
-  <img src="https://github.com/user-attachments/assets/66b02b12-7d8d-4460-bb96-a7c96a0109f8" width="40" height="40" alt="QEMU" title="QEMU"/>
-  <img src="https://github.com/user-attachments/assets/733e5968-ac9b-4337-806e-a958f2148f17" width="40" height="40" alt="Docker" title="Docker"/>
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
