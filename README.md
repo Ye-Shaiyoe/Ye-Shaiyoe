@@ -14,7 +14,6 @@ Now I am doing field work practice (PKL) at the government office of the metrolo
 ## 🛠️ Stack
 
 ### Languages
-
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"  width="50" height="50" alt="C" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"  width="50" height="50" alt="Cpp" />
