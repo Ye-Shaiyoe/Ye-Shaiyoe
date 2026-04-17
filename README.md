@@ -22,16 +22,15 @@ PKL @ **Balai Metrologi Legal** — membangun sistem manajemen surat pemerintah
 
 ## 🛠️ Stack
 
-### Languages
 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="40" height="40" alt="C" title="C"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" width="40" height="40" alt="C++" title="C++"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40" height="40" alt="Python" title="Python"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" width="40" height="40" alt="Go" title="Go"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" width="40" height="40" alt="PHP" title="PHP"/>
-  &nbsp;
-  <img src="https://github.com/user-attachments/assets/27eb574f-f2c6-4719-b552-0bbe23a088ef" width="40" height="40" alt="Rust" title="Rust"/>
-  <img src="https://github.com/user-attachments/assets/a2868c41-d1a9-4e25-873d-3bb4846e197a" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Frameworks
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" width="40" height="40" alt="Laravel" title="Laravel"/>
