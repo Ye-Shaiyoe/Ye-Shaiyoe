@@ -4,10 +4,10 @@
 
 <br/>
 
-```bash
-$ whoami
-ye-shaiyoe — 17 y/o · solo programmer · PKL @ Balai Metrologi Legal
-```
+
+`$ whoami` &nbsp;·&nbsp; ye-shaiyoe — 17 y/o · solo programmer · PKL @ Balai Metrologi Legal
+
+
 
 <img src="https://img.shields.io/badge/status-building-00D9FF?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/age-17-blueviolet?style=flat-square&labelColor=0D1117" />
