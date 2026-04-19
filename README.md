@@ -75,7 +75,7 @@
 ![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat-square&logo=gnu&logoColor=white)
 ![strace](https://img.shields.io/badge/strace-222222?style=flat-square&logo=linux&logoColor=white)
 ![htop](https://img.shields.io/badge/htop-1E8CBE?style=flat-square&logo=linux&logoColor=white)
-![nmap](https://img.shields.io/badge/nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+![nmap](https://img.shields.io/badge/nmap-0E83CD?style=flat-square&logo=linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![awk/sed](https://img.shields.io/badge/awk%2Fsed%2Fgrep-222222?style=flat-square&logo=gnu&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-A42E2B?style=flat-square&logo=cmake&logoColor=white)
