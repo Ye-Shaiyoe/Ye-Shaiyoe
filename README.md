@@ -23,7 +23,7 @@
 
 ## ⚡ Languages
 
-<table>
+<table align-items: center;>
 <tr>
 <td valign="top" width="50%">
 
