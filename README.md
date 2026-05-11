@@ -1,29 +1,41 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Muhammad+Yusuf+Akram;ye-shaiyoe;solo+programmer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Muhammad+Yusuf+Akram;ye-shaiyoe;solo+programmer;PKL+%40+Balai+Metrologi" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
+```
+╔══════════════════════════════════════════════════════╗
+║  $ whoami                                            ║
+║  ye-shaiyoe — 17 y/o · solo programmer              ║
+║  PKL @ Balai Metrologi Legal, Bandung                ║
+╚══════════════════════════════════════════════════════╝
+```
 
-| `$ whoami` |
-|:---:|
-| ye-shaiyoe — 17 y/o · solo programmer · PKL @ Balai Metrologi Legal |
-
-</div>
-
-<img src="https://img.shields.io/badge/status-building-00D9FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/status-building%20things-00D9FF?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/age-17-blueviolet?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/arch-btw-1793D1?style=flat-square&logo=archlinux&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/wm-hyprland-aqua?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/editor-neovim-57A143?style=flat-square&logo=neovim&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/shell-fish-4E4F97?style=flat-square&labelColor=0D1117" />
 
 </div>
 
 ---
 
+## 🧠 About
+
+- 🎓 17 y/o, PKL di **Balai Metrologi Legal** — bikin sistem manajemen surat berbasis Laravel
+- 🐧 Daily driving **Arch Linux + Hyprland** di ThinkPad, dual boot Windows 11
+- 🦀 Lagi jatuh cinta sama **Rust** dan sistem tingkat rendah
+- ⚡ Suka ngulik terminal, dotfiles, dan hal-hal yang kebanyakan orang anggap nggak perlu dikustomisasi
+- 🎮 Main **Honkai: Star Rail** di waktu luang
+
+---
+
 ## ⚡ Languages
 
-<table align-items: center;>
+<table>
 <tr>
 <td valign="top" width="50%">
 
@@ -94,16 +106,55 @@
 
 ---
 
+## 🔭 Now
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  📋  Surat-Metrologi                                        │
+│      Laravel-based document management system               │
+│      untuk Balai Metrologi Legal, Bandung                   │
+│      → role-based auth · PDF preview · dashboard stats      │
+│                                                             │
+│  🦀  Belajar Rust lebih dalam                               │
+│      Actix-web, memory model, async runtime                 │
+│                                                             │
+│  🎯  Target berikutnya                                      │
+│      Sistem berbasis Go · Kontribusi open source            │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ye-Shaiyoe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ye-Shaiyoe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ye-Shaiyoe&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 </div>
 
 ---
 
-## 🔭 Now
+## 🐾 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ye-Shaiyoe&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true)](https://github.com/Ye-Shaiyoe)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+"Build first. Optimize later. Understand always."
+```
+
+<img src="https://komarev.com/ghpvc/?username=Ye-Shaiyoe&style=flat-square&color=00D9FF&label=profile+views&labelColor=0D1117" />
+
+</div>
