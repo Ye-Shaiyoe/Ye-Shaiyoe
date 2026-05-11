@@ -129,11 +129,21 @@
 
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/Ye-Shaiyoe)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ye-Shaiyoe&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+
+</div>
+
+---
+
+## 🏆 Most Used
+
+<div align="center">
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
 
