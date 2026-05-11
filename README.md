@@ -129,7 +129,7 @@
 
 <div align="center">
 
-![Stats](https://github-stats.walter-rothlin.com/api?username=Ye-Shaiyoe&theme=dark)
+![Metrics](https://metrics.lecoq.io/Ye-Shaiyoe)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
 
