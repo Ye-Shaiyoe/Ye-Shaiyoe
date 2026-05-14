@@ -125,6 +125,26 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  projects that actually ship                                │
+└─────────────────────────────────────────────────────────────┘
+```
+
+[![Surat-Laravel](https://img.shields.io/badge/📋_Surat--Laravel-document%20management%20system-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0D1117)](https://github.com/Ye-Shaiyoe/Surat-Laravel)
+
+[![ai_roleplay_anime_openrouter](https://img.shields.io/badge/🤖_AI_Roleplay_Anime-openrouter%20powered%20chatbot-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)](https://github.com/Ye-Shaiyoe/ai_roleplay_anime_openrouter)
+
+[![learn-go-cpp-and-rust](https://img.shields.io/badge/📚_learn--go--cpp--and--rust-systems%20language%20journey-00D9FF?style=for-the-badge&logo=rust&logoColor=white&labelColor=0D1117)](https://github.com/Ye-Shaiyoe/learn-go-cpp-and-rust)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
