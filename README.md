@@ -7,7 +7,7 @@
 ```
 ╔══════════════════════════════════════════════════════╗
 ║  $ whoami                                            ║
-║  ye-shaiyoe — 17 y/o · solo programmer              ║
+║  ye-shaiyoe — 17 y/o · solo programmer               ║
 ║  PKL @ Balai Metrologi Legal, Bandung                ║
 ╚══════════════════════════════════════════════════════╝
 ```
@@ -110,7 +110,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  📋  Surat-Metrologi                                        │
+│  📋  persuratan-bpsuml                                      │
 │      Laravel-based document management system               │
 │      untuk Balai Metrologi Legal, Bandung                   │
 │      → role-based auth · PDF preview · dashboard stats      │
@@ -135,7 +135,7 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
-[![Surat-Laravel](https://img.shields.io/badge/📋_Surat--Laravel-document%20management%20system-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0D1117)](https://github.com/Ye-Shaiyoe/Surat-Laravel)
+[![Persuratan BPSUML](https://img.shields.io/badge/📋_Surat--Laravel-document%20management%20system-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0D1117)](https://github.com/Ye-Shaiyoe/Surat-Laravel)
 
 [![ai_roleplay_anime_openrouter](https://img.shields.io/badge/🤖_AI_Roleplay_Anime-openrouter%20powered%20chatbot-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)](https://github.com/Ye-Shaiyoe/ai_roleplay_anime_openrouter)
 
