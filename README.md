@@ -29,7 +29,7 @@
 - 🐧 Daily driving **Arch Linux + Hyprland** di ThinkPad, dual boot Windows 11
 - 🦀 Lagi jatuh cinta sama **Rust** dan sistem tingkat rendah
 - ⚡ Suka ngulik terminal, dotfiles, dan hal-hal yang kebanyakan orang anggap nggak perlu dikustomisasi
-- 🎮 Main **Honkai: Star Rail** di waktu luang
+- 🎮 Main **Honkai: Star Rail** dan **Zenles Zone Zero** di waktu luang
 
 ---
 
