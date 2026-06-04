@@ -110,15 +110,15 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  📋  persuratan-bpsuml                                     │
+│      persuratan-bpsuml                                      │
 │      Laravel-based document management system               │
 │      untuk Balai Metrologi Legal, Bandung                   │
 │      → role-based auth · PDF preview · dashboard stats      │
 │                                                             │
-│  🦀  Belajar Rust lebih dalam                              │
+│      Belajar Rust lebih dalam                               │
 │      Actix-web, memory model, async runtime                 │
 │                                                             │
-│  🎯  Target berikutnya                                     │
+│      Target berikutnya                                      │
 │      Sistem berbasis Go · Kontribusi open source            │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -131,7 +131,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  projects that actually ship                                │
+│  projects that actually ship :3                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -145,7 +145,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats :P
 
 <div align="center">
 
