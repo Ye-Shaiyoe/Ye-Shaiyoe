@@ -14,7 +14,7 @@
 
 <img src="https://img.shields.io/badge/status-Student-00D9FF?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/age-17-blueviolet?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/i-use-arch-btw-1793D1?style=flat-square&logo=archlinux&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/arch-btw-1793D1?style=flat-square&logo=archlinux&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/wm-hyprland-aqua?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/editor-vim-57A143?style=flat-square&logo=vim&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/shell-fish-4E4F97?style=flat-square&labelColor=0D1117" />
