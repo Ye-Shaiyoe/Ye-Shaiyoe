@@ -1,190 +1,48 @@
-<div align="left">
+# hi, i'm akram 👋
 
-Hei there, IM <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Muhammad+Yusuf+Akram;Ye-Shaiyoe;DevOps;PKL+%40+Balai+Metrologi" alt="Typing SVG" />
-
-<br/>
+17 y/o · solo programmer · PKL @ Balai Metrologi Legal, Bandung
 
 ```
-╔══════════════════════════════════════════════════════╗
-║  $ whoami                                            ║
-║  ye-shaiyoe — 17 y/o · solo programmer               ║
-║  PKL @ Balai Metrologi Legal, Bandung                ║
-╚══════════════════════════════════════════════════════╝
-```
-
-<img src="https://img.shields.io/badge/status-Student-00D9FF?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/age-17-blueviolet?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/arch-btw-1793D1?style=flat-square&logo=archlinux&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/wm-hyprland-aqua?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/editor-vim-57A143?style=flat-square&logo=vim&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/shell-fish-4E4F97?style=flat-square&labelColor=0D1117" />
-
-</div>
-
----
-
-## 🧠 About
-
-- 🎓 17 y/o, PKL di **Balai Metrologi Legal** — bikin sistem manajemen surat berbasis Laravel
-- 🐧 Daily driving **Arch Linux + Hyprland** di ThinkPad, dual boot Windows 11
-- 🦀 Lagi jatuh cinta sama **Rust** dan sistem tingkat rendah
-- ⚡ Suka ngulik terminal, dotfiles, dan hal-hal yang kebanyakan orang anggap nggak perlu dikustomisasi
-- 🎮 Main **Honkai: Star Rail** dan **Zenles Zone Zero** di waktu luang
-
----
-
-## ⚡ Languages
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Low-level**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**High-level**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=White)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Stack
-
-**Frameworks & Runtime**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Actix](https://img.shields.io/badge/Actix-CE422B?style=flat-square&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-
-**Distro & Platform**
-
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white)
-
-**Linux Tooling**
-
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
-![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
-![Fish](https://img.shields.io/badge/Fish_Shell-4E4F97?style=flat-square&logo=gnu-bash&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
-![systemd](https://img.shields.io/badge/systemd-000000?style=flat-square&logo=linux&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat-square&logo=gnu&logoColor=white)
-![strace](https://img.shields.io/badge/strace-222222?style=flat-square&logo=linux&logoColor=white)
-![htop](https://img.shields.io/badge/htop-1E8CBE?style=flat-square&logo=linux&logoColor=white)
-![nmap](https://img.shields.io/badge/nmap-0E83CD?style=flat-square&logo=linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![awk/sed](https://img.shields.io/badge/awk%2Fsed%2Fgrep-222222?style=flat-square&logo=gnu&logoColor=white)
-![Make](https://img.shields.io/badge/Make-A42E2B?style=flat-square&logo=cmake&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-
-**DevOps & Infra**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat-square&logo=openssh&logoColor=white)
-
----
-
-## 🔭 Now
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│      persuratan-bpsuml                                      │
-│      Laravel-based document management system               │
-│      untuk Balai Metrologi Legal, Bandung                   │
-│      → role-based auth · PDF preview · dashboard stats      │
-│                                                             │
-│      Belajar Rust lebih dalam                               │
-│      Actix-web, memory model, async runtime                 │
-│                                                             │
-│      Target berikutnya                                      │
-│      Sistem berbasis Go · Kontribusi open source            │
-└─────────────────────────────────────────────────────────────┘
+arch btw  ·  vim enjoyer  ·  terminal rat
 ```
 
 ---
 
-## 🚀 Featured Projects
+## languages
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  projects that actually ship :3                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-[![Persuratan BPSUML](https://img.shields.io/badge/Persuratan--BPSUML-document%20management%20system-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0D1117)](https://github.com/Ye-Shaiyoe/Surat-Laravel)
-
-[![ai_roleplay_anime_openrouter](https://img.shields.io/badge/🤖_AI_Roleplay_Anime-openrouter%20powered%20chatbot-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)](https://github.com/Ye-Shaiyoe/ai_roleplay_anime_openrouter)
-
-[![learn-go-cpp-and-rust](https://img.shields.io/badge/_learn--go--cpp--and--rust-systems%20language%20journey-00D9FF?style=for-the-badge&logo=rust&logoColor=white&labelColor=0D1117)](https://github.com/Ye-Shaiyoe/learn-go-cpp-and-rust)
-
-</div>
+**low-level** → C · C++ · Rust · Assembly  
+**high-level** → Go · Python · PHP · TypeScript
 
 ---
 
-## 📊 GitHub Stats :P
+## stack
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ye-Shaiyoe&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-</div>
+**web** → Laravel · Next.js · React · Vue · Actix-web  
+**tools** → Neovim · tmux · Fish · Docker · Nginx · Git  
+**os** → Arch Linux + Hyprland · Windows 11 (dual boot)
 
 ---
 
-## 🏆 Most Used
+## now
 
-<div align="center">
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
-
-</div>
+- 🔨 `persuratan-bpsuml` — Laravel document management system for Balai Metrologi Legal
+- 🦀 diving deeper into Rust (Actix-web, memory model, async runtime)
+- 🎯 next: Go-based system · open source contributions
 
 ---
 
-## 🐾 Activity Graph
+## projects
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ye-Shaiyoe&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true)](https://github.com/Ye-Shaiyoe)
-
-</div>
+- [**persuratan-bpsuml**](https://github.com/Ye-Shaiyoe/Surat-Laravel) — role-based document management, PDF preview, dashboard
+- [**ai-roleplay-anime**](https://github.com/Ye-Shaiyoe/ai_roleplay_anime_openrouter) — openrouter-powered anime chatbot
+- [**learn-go-cpp-rust**](https://github.com/Ye-Shaiyoe/learn-go-cpp-and-rust) — systems language journey
 
 ---
 
-<div align="center">
+## elsewhere
 
-```
-"Build first. Optimize later. Understand always."
-```
+playing Honkai: Star Rail and ZZZ when not in the terminal
 
-<img src="https://komarev.com/ghpvc/?username=Ye-Shaiyoe&style=flat-square&color=00D9FF&label=profile+views&labelColor=0D1117" />
+---
 
-</div>
+*"Build first. Optimize later. Understand always."*
