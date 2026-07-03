@@ -31,20 +31,6 @@ Assembly              Python
 
 ---
 
-## now
-
-```
-🔨  persuratan-bpsuml
-    Laravel document management system for Balai Metrologi Legal
-    → role-based auth · PDF preview · dashboard stats
-
-🦀  Diving deeper into Rust
-    Actix-web, memory model, async runtime
-
-🎯  Next up
-    Go-based system · open source contributions
-```
-
 ---
 
 ## projects
