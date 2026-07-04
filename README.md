@@ -1,8 +1,8 @@
 <div align="center">
 
 ```
-              Muhammad Yusuf Akram
-              alias: VOID  ·  github: Ye-Shaiyoe
+                                                              Muhammad Yusuf Akram
+                                                              alias: VOID  ·  github: Ye-Shaiyoe
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI+Engineer+%7C+Embedded+Systems+%7C+Full+Stack;Building+systems+from+bare+metal+to+the+cloud.)](https://git.io/typing-svg)
