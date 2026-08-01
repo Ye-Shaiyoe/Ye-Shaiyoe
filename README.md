@@ -1,5 +1,5 @@
 <!-- ████████████████████████████████████████████████████ -->
-<!--              YE-SHAIYOE · GITHUB PROFILE README               -->
+<!--              Yusuf Akram · GITHUB PROFILE README               -->
 <!-- ████████████████████████████████████████████████████ -->
 
 <div align="center">
@@ -36,41 +36,6 @@
 
 <br/>
 
-<!-- ══════════════════════════ NEOFETCH ══════════════════════════ -->
-
-```
-╭──────────────────────────────────────────────────────────────────────╮
-│                                                                      │
-│    ██╗   ██╗███████╗       ███████╗██╗  ██╗ █████╗ ██╗             │
-│    ╚██╗ ██╔╝██╔════╝       ██╔════╝██║  ██║██╔══██╗██║             │
-│     ╚████╔╝ █████╗   ─────  ███████╗███████║███████║██║             │
-│      ╚██╔╝  ██╔══╝         ╚════██║██╔══██║██╔══██║██║             │
-│       ██║   ███████╗       ███████║██║  ██║██║  ██║███████╗         │
-│       ╚═╝   ╚══════╝       ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝        │
-│                                                                      │
-│   $ fastfetch --user akram                                           │
-│   ─────────────────────────────────────────────────────────────     │
-│   USER      ›  akram @ ye-shaiyoe                                   │
-│   LOCATION  ›  Bandung, Jawa Barat, Indonesia  🇮🇩                  │
-│   ─────────────────────────────────────────────────────────────     │
-│   OS        ›  Gentoo Linux  (systemd)                              │
-│   WM        ›  Hyprland  [Wayland compositor]                       │
-│   SHELL     ›  bash                                                  │
-│   HOST      ›  Lenovo ThinkPad T480                                  │
-│   BOOTMGR   ›  rEFInd  →  systemd-boot                              │
-│   DUAL BOOT ›  Gentoo  ⚡  Windows 11                               │
-│   DOTFILES  ›  CielDots-Hyprland  [github ↗]                        │
-│   ─────────────────────────────────────────────────────────────     │
-│   STACK     ›  C · C++ · JavaScript · TypeScript · PHP · Shell      │
-│   EMBEDDED  ›  Arduino · ESP32 / ESP32C5                            │
-│   CONTRIB   ›  3400+  contributions  in  the  last  year            │
-│   BIO       ›  THIS IS MY HOBBY  ✦                                  │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
-```
-
-<br/>
-
 <!-- ══════════════════════════ TECH STACK ═════════════════════════ -->
 
 <div align="center">
@@ -83,7 +48,7 @@
 
 **Web & Backend**
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,laravel,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,go,laravel,nodejs&theme=dark" />
 
 **Embedded & Hardware**
 
