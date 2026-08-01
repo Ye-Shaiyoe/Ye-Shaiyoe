@@ -22,8 +22,8 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-            dist/github-snake-purple.svg?color_snake=cba6f7&color_dots=#161b22,#313244,#45475a,#585b70,#74c7ec
-
+            dist/github-snake.svg?color_snake=cba6f7&color_dots=#1e1e2e,#313244,#45475a,#585b70,#89b4fa
+              
             dist/github-snake-rainbow.svg?palette=github-dark&color_snake=ff79c6
 
         env:
