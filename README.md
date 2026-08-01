@@ -194,15 +194,6 @@
 
 <img src="https://img.shields.io/badge/Powered%20by-Gentoo%20Linux%20%26%20Hyprland-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=gentoo" />
 
-<br/><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/Ye-Shaiyoe/Ye-Shaiyoe/blob/output/github-contribution-grid-snake-dark.svg">
-  <img
-    src="https://github.com/Ye-Shaiyoe/Ye-Shaiyoe/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
-
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:313244,100:1e1e2e&height=140&section=footer&animation=fadeIn" />
