@@ -167,24 +167,23 @@
 
 <!-- ════════════════════ CONTRIBUTION SNAKE ══════════════════════ -->
 
+
 <div align="center">
 
 ## `◈ contributions`
 
-<!--
-  ⚠️  SETUP REQUIRED: Snake animation butuh GitHub Actions.
-  Buat file: .github/workflows/snake.yml
-  Lihat instruksi di bawah README ini, atau cek:
-  https://github.com/Platane/snk
--->
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ye-Shaiyoe/Ye-Shaiyoe/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ye-Shaiyoe/Ye-Shaiyoe/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ye-Shaiyoe/Ye-Shaiyoe/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Ye-Shaiyoe/Ye-Shaiyoe/output/github-snake-purple.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/Ye-Shaiyoe/Ye-Shaiyoe/output/github-snake-purple.svg"
+    width="100%"
+    alt="Snake animation"/>
 </picture>
 
 </div>
+
 
 <br/>
 
