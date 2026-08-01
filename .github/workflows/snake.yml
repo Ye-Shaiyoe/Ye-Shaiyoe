@@ -2,30 +2,34 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Jalankan setiap 12 jam
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-      - uses: actions/checkout@v4
-      
       - uses: Platane/snk@v3
-        id: snake-gif
+        id: snake
         with:
           github_user_name: Ye-Shaiyoe
+
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: Push generated file to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+            dist/github-snake-purple.svg?color_snake=cba6f7&color_dots=#161b22,#313244,#45475a,#585b70,#74c7ec
+
+            dist/github-snake-rainbow.svg?palette=github-dark&color_snake=ff79c6
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
