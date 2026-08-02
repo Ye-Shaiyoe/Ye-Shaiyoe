@@ -1,36 +1,47 @@
-name: Generate Snake
+# ─────────────────────────────────────────────────────────────
+#  🐍  Generate Contribution Snake  ·  Ye-Shaiyoe
+#  Palette: Catppuccin Mocha
+#  Schedule: daily at 19:00 WIB (12:00 UTC)
+# ─────────────────────────────────────────────────────────────
+
+name: "🐍 Generate Snake"
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 12 * * *"   # 19:00 WIB · runs every day
+  workflow_dispatch:         # allow manual trigger from Actions tab
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  snake:
+    name: "Generate Snake SVG"
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - uses: Platane/snk@v3
+      # ── Generate all snake variants ──────────────────────────
+      - name: "🐍 Generate contribution snake"
+        uses: Platane/snk@v3
         id: snake
         with:
           github_user_name: Ye-Shaiyoe
-
           outputs: |
             dist/github-snake.svg
-          
+
             dist/github-snake-dark.svg?palette=github-dark
-          
-            dist/github-snake-purple.svg?color_snake=89dceb&color_dots=#1e1e2e,#313244,#45475a,#585b70,#89b4fa
-          
-            dist/github-snake-rainbow.svg?palette=github-dark&color_snake=89dceb
+
+            dist/github-snake-purple.svg?color_snake=cba6f7&color_dots=#1e1e2e,#313244,#585b70,#89b4fa,#cba6f7
+
+            dist/github-snake-teal.svg?color_snake=94e2d5&color_dots=#1e1e2e,#313244,#45475a,#74c7ec,#94e2d5
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      # ── Push generated SVGs to `output` branch ───────────────
+      - name: "🚀 Push to output branch"
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
