@@ -44,7 +44,7 @@
 
 **Systems & Low-Level**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,matlab,assembly&theme=dark" />
 
 **Web & Backend**
 
