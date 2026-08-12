@@ -44,11 +44,11 @@
 
 **Systems & Low-Level**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,matlab,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,matlab,zig&theme=dark" />
 
 **Web & Backend**
 
-<img src="https://skillicons.dev/icons?i=js,ts,go,laravel,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,go,laravel,nodejs,supabase&theme=dark" />
 
 **Embedded & Hardware**
 
