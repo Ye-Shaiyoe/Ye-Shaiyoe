@@ -44,7 +44,7 @@
 
 **Systems & Low-Level**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,matlab,ada&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,matlab,&theme=dark" />
 
 **Web & Backend**
 
@@ -52,7 +52,7 @@
 
 **Embedded & Hardware**
 
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
 &nbsp;
 <img src="https://img.shields.io/badge/ESP32-ESP32C5-a6e3a1?style=for-the-badge&logo=espressif&logoColor=white&labelColor=1e1e2e" />
 
