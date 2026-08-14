@@ -5,7 +5,6 @@
 <div align="center">
 
 <!-- ═══════════════════════════ TOP WAVE ═══════════════════════════ -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:cba6f7&height=210&section=header&text=Ye-Shaiyoe&fontSize=68&fontColor=cdd6f4&fontAlignY=37&desc=✦+THIS+IS+MY+HOBBY+✦&descAlignY=58&descSize=20&descColor=a6adc8&animation=fadeIn" />
 
 <!-- ═══════════════════════ TYPING ANIMATION ══════════════════════ -->
