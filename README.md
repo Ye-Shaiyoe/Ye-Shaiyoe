@@ -67,14 +67,16 @@
 
 <br/>
 
-
 <!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
 
 <div align="center">
 
 ## `◈ github stats`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Ye-Shaiyoe&theme=tokyonight&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakLabel=cba6f7&sideLabels=cdd6f4&dates=a6adc8&stroke=313244&sideNums=89b4fa&currStreakNum=94e2d5" />
+&nbsp;
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&langs_count=8&size_weight=0.5&count_weight=0.5" />
+
 <br/>
 
 </div>
@@ -118,4 +120,3 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:313244,100:1e1e2e&height=140&section=footer&animation=fadeIn" />
 
 </div>
-
