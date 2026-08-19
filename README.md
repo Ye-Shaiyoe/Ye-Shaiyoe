@@ -67,31 +67,6 @@
 
 <br/>
 
-<!-- ═══════════════════════ CURRENT MACHINE ══════════════════════ -->
-
-<div align="center">
-
-## `⚙ current machine`
-
-</div>
-
-```
- ┌─────────────────────────────────────────────────────────────────┐
- │  LENOVO THINKPAD T480                                           │
- │  ─────────────────────────────────────────────────────────────  │
- │  CPU     ›  Intel Core i-8th Gen                               │
- │  RAM     ›  DDR4 — upgradeable (T480 has 2 DIMM slots!)        │
- │  DISPLAY ›  14" FHD IPS                                        │
- │  OS [0]  ›  Gentoo Linux  (daily driver)                       │
- │  OS [1]  ›  Windows 11                                         │
- │  BOOT    ›  rEFInd  →  EFI boot entries                        │
- │  FS      ›  ext4 / NTFS                                        │
- │  STATUS  ›  fully riced  🎨                                    │
- └─────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
 
 <!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
 
