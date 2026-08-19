@@ -75,7 +75,6 @@
 ## `◈ github stats`
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" />
-
 <br/>
 
 </div>
