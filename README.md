@@ -72,7 +72,7 @@
 
 ## `◈ most used languages`
 
-<img src="https://wakatime.com/badge/user/8a4b06a6-67a3-4efa-9582-0db7c79218e9/all/time.svg" />
+<img src="https://wakatime.com/badge/user/@8a4b06a6-67a3-4efa-9582-0db7c79218e9/all/time.svg" />
 
 </div>
 
