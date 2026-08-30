@@ -72,8 +72,7 @@
 
 ## `◈ most used languages`
 
-<img src="https://github-readme-stats-language5.vercel.app/api/top-langs/?username=Ye-Shaiyoe&theme=tokyonight" />
-</div>
+<img src="https://github-readme-stats-language5.vercel.app/api/top-langs/?username=Ye-Shaiyoe" /></div>
 
 <br/>
 
