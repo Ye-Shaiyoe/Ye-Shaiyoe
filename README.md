@@ -72,11 +72,11 @@
 
 ## `◈ most used languages`
 
-<img src="https://wakatime.com/badge/user/8a4b06a6-67a3-4efa-9582-0db7c79218e9/all/time.svg" />
+<img src="https://github-readme-stats-git-master-anurag90s.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" />
 </div>
 
 <br/>
-</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/Ye-Shaiyoe/Ye-Shaiyoe/output/github-snake-purple.svg">
