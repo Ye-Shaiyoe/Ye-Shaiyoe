@@ -66,22 +66,17 @@
 </div>
 
 <br/>
+<!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
 
 <div align="center">
 
-<h2>◈ github stats</h2>
+## `◈ most used languages`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&langs_count=8&count_private=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=fill&langs_count=10&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" />
 
 </div>
 
 <br/>
-
-<div align="center">
-
-<h2>◈ activity</h2>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ye-Shaiyoe&theme=tokyo-night&hide_border=true&bg_color=1e1e2e&color=cba6f7&line=89b4fa&point=f38ba8&area=true&area_color=cba6f7" />
 
 </div>
 <picture>
