@@ -72,13 +72,8 @@
 
 ## `◈ most used languages`
 
-<picture>
-  <img src="https://github-readme-stats-language5.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2" />
-</picture>
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Ye-Shaiyoe)](https://github.com/stats-organization/github-stats-extended)
 
-</div>
-</div>
-</br>
 <!-- ═════════════════════════ FOOTER ═════════════════════════════ -->
 
 <div align="center">
