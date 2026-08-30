@@ -72,13 +72,7 @@
 
 ## `◈ most used languages`
 
-<a href="https://github.com/Ye-Shaiyoe">
-  <img src="https://img.shields.io/badge/JavaScript-53.94%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-21.00%25-F37726?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/CSS-11.60%25-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/HTML-4.76%25-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/Hack-4.18%25-1572B6?style=for-the-badge&labelColor=1e1e2e" />
-</a>
+<img src="https://wakatime.com/badge/user/YOUR_USER_ID/all/time.svg" />
 
 </div>
 
