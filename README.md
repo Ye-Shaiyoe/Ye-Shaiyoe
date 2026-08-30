@@ -73,21 +73,7 @@
 ## `◈ most used languages`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-language5.vercel.app/api/top-langs/?username=Ye-Shaiyoe&theme=tokyonight&layout=compact" />
-  <img src="https://github-readme-stats-language5.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=compact" />
-</picture>
-
-</div>
-</br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Ye-Shaiyoe/Ye-Shaiyoe/output/github-snake-purple.svg">
-
-  <img
-    src="https://raw.githubusercontent.com/Ye-Shaiyoe/Ye-Shaiyoe/output/github-snake-purple.svg"
-    width="100%"
-    alt="Snake animation"/>
+  <img src="https://github-readme-stats-language5.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2" />
 </picture>
 
 </div>
