@@ -36,43 +36,37 @@
 <br/>
 
 <!-- ══════════════════════════ TECH STACK ═════════════════════════ -->
-<div align="center">
-
 <div align="right">
 
-## `◈ tech stack`
+<h3><code>◈ tech stack</code></h3>
 
-**Systems & Low-Level**
+<p><b>Systems & Low-Level</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,matlab,zig&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,matlab,zig&theme=dark" />
-</div>
+<p><b>Web & Backend</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,go,laravel,nodejs,supabase&theme=dark" />
+</p>
 
+<p><b>Embedded & Hardware</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ESP32-ESP32C5-a6e3a1?style=for-the-badge&logo=espressif&logoColor=white&labelColor=1e1e2e" />
+</p>
 
-<div align="left">
-**Web & Backend**
-
-<img src="https://skillicons.dev/icons?i=js,ts,go,laravel,nodejs,supabase&theme=dark" />
-
-</div>
-
-
-**Embedded & Hardware**
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/ESP32-ESP32C5-a6e3a1?style=for-the-badge&logo=espressif&logoColor=white&labelColor=1e1e2e" />
-
-**Environment & Tools**
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vim&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Gentoo-1e1e2e?style=for-the-badge&logo=gentoo&logoColor=cba6f7" />
-&nbsp;
-<img src="https://img.shields.io/badge/Hyprland-1e1e2e?style=for-the-badge&logo=wayland&logoColor=89b4fa" />
+<p><b>Environment & Tools</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vim&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Gentoo-1e1e2e?style=for-the-badge&logo=gentoo&logoColor=cba6f7" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hyprland-1e1e2e?style=for-the-badge&logo=wayland&logoColor=89b4fa" />
+</p>
 
 </div>
-
-<br/>
 <!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
 <div align="center">
 
