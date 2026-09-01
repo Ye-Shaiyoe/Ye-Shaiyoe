@@ -40,15 +40,20 @@
 
 <h3><code>◈ tech stack</code></h3>
 
-<p><b>Systems & Low-Level</b></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,matlab,zig&theme=dark" />
-</p>
+<table border="0">
+  <tr>
+    <td align="left" valign="top">
+      <p><b>Systems & Low-Level</b></p>
+      <img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,matlab,zig&theme=dark" />
+    </td>
+    <td align="left" valign="top">
+      <p><b>Web & Backend</b></p>
+      <img src="https://skillicons.dev/icons?i=js,ts,go,laravel,nodejs,supabase&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-<p><b>Web & Backend</b></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,go,laravel,nodejs,supabase&theme=dark" />
-</p>
+<br/>
 
 <p><b>Embedded & Hardware</b></p>
 <p>
