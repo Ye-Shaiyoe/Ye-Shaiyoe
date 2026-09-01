@@ -44,7 +44,7 @@
   <tr>
     <td align="center" valign="top">
       <p><b>Systems & Low-Level</b></p>
-      <img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,asm,zig&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,wasm,zig&theme=dark" />
     </td>
     <td align="center" valign="top">
       <p><b>Web & Backend</b></p>
