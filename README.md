@@ -67,15 +67,12 @@
 
 <br/>
 <!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
-
 <div align="center">
-
-## `◈ most used languages`
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Ye-Shaiyoe&hide=css,html,javascript&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
-<!-- ═════════════════════════ FOOTER ═════════════════════════════ -->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=Ye-Shaiyoe&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
-<div align="center">
+</div>
 
 <img src="https://img.shields.io/badge/Powered%20by-Gentoo%20Linux%20%26%20Hyprland-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=gentoo" />
 
