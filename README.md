@@ -36,6 +36,7 @@
 <br/>
 
 <!-- ══════════════════════════ TECH STACK ═════════════════════════ -->
+<div align="center">
 
 <div align="right">
 
@@ -45,15 +46,15 @@
 
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,matlab,zig&theme=dark" />
 </div>
-**Web & Backend**
+
 
 <div align="left">
+**Web & Backend**
 
 <img src="https://skillicons.dev/icons?i=js,ts,go,laravel,nodejs,supabase&theme=dark" />
 
 </div>
 
-<div align="center">
 
 **Embedded & Hardware**
 
