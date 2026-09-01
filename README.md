@@ -36,7 +36,7 @@
 <br/>
 
 <!-- ══════════════════════════ TECH STACK ═════════════════════════ -->
-<div align="right">
+<div align="center">
 
 <h3><code>◈ tech stack</code></h3>
 
