@@ -69,7 +69,7 @@
 <!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
 <div align="center">
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Ye-Shaiyoe&hide=css,html,javascript&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&hide=css,html,javascript)](https://github.com/stats-organization/github-stats-extended)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=Ye-Shaiyoe&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
 <img src="https://img.shields.io/badge/Powered%20by-Gentoo%20Linux%20%26%20Hyprland-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=gentoo" />
