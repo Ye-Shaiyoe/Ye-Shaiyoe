@@ -37,17 +37,23 @@
 
 <!-- ══════════════════════════ TECH STACK ═════════════════════════ -->
 
-<div align="center">
+<div align="right">
 
 ## `◈ tech stack`
 
 **Systems & Low-Level**
 
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,matlab,zig&theme=dark" />
-
+</div>
 **Web & Backend**
 
+<div align="left">
+
 <img src="https://skillicons.dev/icons?i=js,ts,go,laravel,nodejs,supabase&theme=dark" />
+
+</div>
+
+<div align="center">
 
 **Embedded & Hardware**
 
