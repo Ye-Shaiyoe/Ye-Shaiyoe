@@ -2,5 +2,4 @@
 <!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
 <div align="center">
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&hide=css,html,php,javascript)](https://github.com/stats-organization/github-stats-extended)
-</div>
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&hide=css,html,php,javascript&card_width=600)](https://github.com/stats-organization/github-stats-extended)</div>
