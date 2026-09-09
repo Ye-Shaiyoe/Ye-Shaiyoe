@@ -75,6 +75,7 @@
 <!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
 <div align="center">
 
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&hide=css,html,php,blade,javascript)](https://github.com/stats-organization/github-stats-extended)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=Ye-Shaiyoe&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
