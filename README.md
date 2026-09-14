@@ -40,7 +40,7 @@
       <img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,wasm,zig&theme=dark" />
     </td>
     <td align="center" valign="top" width="50%">
-      <p><b>🌐 Web & Backend</b></p>
+      <p><b>Web & Backend</b></p>
       <img src="https://skillicons.dev/icons?i=js,ts,go,laravel,nodejs,supabase&theme=dark" />
     </td>
   </tr>
@@ -48,14 +48,14 @@
 
 <br/>
 
-<p><b>🔌 Embedded & Hardware</b></p>
+<p><b>Embedded & Hardware</b></p>
 <p>
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/ESP32-ESP32C5-a6e3a1?style=for-the-badge&logo=espressif&logoColor=white&labelColor=1e1e2e" />
 </p>
 
-<p><b>⚙️ Environment & Tools</b></p>
+<p><b> Environment & Tools</b></p>
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,vim&theme=dark" />
   &nbsp;
@@ -71,13 +71,10 @@
 <!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
 <div align="center">
 <h3><code>◈ github stats</code></h3>
-
-<img src="https://github-stats-extended.vercel.app/api/?username=Ye-Shaiyoe&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ye-Shaiyoe&theme=tokyonight&hide_border=true" width="49%" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&hide=css,html,php,lua,blade,hack,javascript,go" width="34%" />
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ye-Shaiyoe&theme=tokyonight&hide_border=true" width="49%" />
+<br/>
 
 </div>
 
