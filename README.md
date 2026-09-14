@@ -1,32 +1,27 @@
 <!-- ████████████████████████████████████████████████████ -->
-<!--              Yusuf Akram · GITHUB PROFILE README               -->
+<!--              Yusuf Akram · GITHUB PROFILE README     -->
 <!-- ████████████████████████████████████████████████████ -->
 
 <div align="center">
 
 <!-- ═══════════════════════════ TOP WAVE ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:cba6f7&height=210&section=header&text=Ye-Shaiyoe&fontSize=68&fontColor=cdd6f4&fontAlignY=37&desc=✦+THIS+IS+MY+HOBBY+✦&descAlignY=58&descSize=20&descColor=a6adc8&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:cba6f7&height=220&section=header&text=Ye-Shaiyoe&fontSize=70&fontColor=cdd6f4&fontAlignY=35&desc=%E2%9C%A6+CODE+%C2%B7+TINKER+%C2%B7+REPEAT+%E2%9C%A6&descAlignY=58&descSize=20&descColor=a6adc8&animation=fadeIn" />
 
 <!-- ═══════════════════════ TYPING ANIMATION ══════════════════════ -->
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=CBA6F7&center=true&vCenter=true&repeat=true&width=640&height=42&lines=hobbyist+developer+from+Bandung%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Gentoo+Linux+%7C+Hyprland+%7C+ThinkPad+T480;C+%2F+C%2B%2B+%2F+TypeScript+%2F+PHP+%2F+Arduino+%2F+ESP32;building+things+from+kernel+to+cloud;2000%2B+commits+and+still+going+%E2%9A%A1" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 <!-- ═══════════════════════════ BADGES ════════════════════════════ -->
-
 <a href="https://github.com/Ye-Shaiyoe">
   <img src="https://komarev.com/ghpvc/?username=Ye-Shaiyoe&label=PROFILE+VIEWS&color=cba6f7&style=for-the-badge&labelColor=1e1e2e" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://github.com/Ye-Shaiyoe?tab=followers">
   <img src="https://img.shields.io/github/followers/Ye-Shaiyoe?label=FOLLOWERS&style=for-the-badge&color=89b4fa&labelColor=1e1e2e&logo=github" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://ko-fi.com/akromryooe">
   <img src="https://img.shields.io/badge/KO--FI-akromryooe-94e2d5?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=1e1e2e" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://www.tiktok.com/@shiyooe_28">
   <img src="https://img.shields.io/badge/TIKTOK-@shiyooe__28-f38ba8?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1e1e2e" />
 </a>
@@ -35,19 +30,37 @@
 
 <br/>
 
+<!-- ═══════════════════════════ ABOUT ═════════════════════════════ -->
+<div align="center">
+<h3><code>◈ about me</code></h3>
+</div>
+
+```yaml
+name: Yusuf Akram
+location: Bandung, Indonesia 🇮🇩
+role: Hobbyist Developer
+daily_driver: Gentoo Linux + Hyprland on a ThinkPad T480
+currently_exploring:
+  - Low-level systems programming (C/C++/Rust)
+  - ESP32-based embedded projects
+  - Self-hosted & cloud infrastructure
+fun_fact: "goes from kernel configs to frontend pixels in the same afternoon"
+```
+
+<br/>
+
 <!-- ══════════════════════════ TECH STACK ═════════════════════════ -->
 <div align="center">
-
 <h3><code>◈ tech stack</code></h3>
 
 <table border="0">
   <tr>
-    <td align="center" valign="top">
-      <p><b>Systems & Low-Level</b></p>
+    <td align="center" valign="top" width="50%">
+      <p><b>🛠️ Systems & Low-Level</b></p>
       <img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,wasm,zig&theme=dark" />
     </td>
-    <td align="center" valign="top">
-      <p><b>Web & Backend</b></p>
+    <td align="center" valign="top" width="50%">
+      <p><b>🌐 Web & Backend</b></p>
       <img src="https://skillicons.dev/icons?i=js,ts,go,laravel,nodejs,supabase&theme=dark" />
     </td>
   </tr>
@@ -55,14 +68,14 @@
 
 <br/>
 
-<p><b>Embedded & Hardware</b></p>
+<p><b>🔌 Embedded & Hardware</b></p>
 <p>
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/ESP32-ESP32C5-a6e3a1?style=for-the-badge&logo=espressif&logoColor=white&labelColor=1e1e2e" />
 </p>
 
-<p><b>Environment & Tools</b></p>
+<p><b>⚙️ Environment & Tools</b></p>
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,vim&theme=dark" />
   &nbsp;
@@ -72,10 +85,31 @@
 </p>
 
 </div>
+
+<br/>
+
 <!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
 <div align="center">
+<h3><code>◈ github stats</code></h3>
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&hide=css,html,php,lua,blade,hack,javascript,go)](https://github.com/stats-organization/github-stats-extended)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=Ye-Shaiyoe&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
+<img src="https://github-stats-extended.vercel.app/api/?username=Ye-Shaiyoe&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&hide=css,html,php,lua,blade,hack,javascript,go" width="34%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ye-Shaiyoe&theme=tokyonight&hide_border=true" width="49%" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ FOOTER ═════════════════════════════ -->
+<div align="center">
 
 <img src="https://img.shields.io/badge/Powered%20by-Gentoo%20Linux%20%26%20Hyprland-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=gentoo" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:313244,100:1e1e2e&height=120&section=footer" />
+
+</div>
