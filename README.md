@@ -29,26 +29,6 @@
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════ ABOUT ═════════════════════════════ -->
-<div align="center">
-<h3><code>◈ about me</code></h3>
-</div>
-
-```yaml
-name: Yusuf Akram
-location: Bandung, Indonesia 🇮🇩
-role: Hobbyist Developer
-daily_driver: Gentoo Linux + Hyprland on a ThinkPad T480
-currently_exploring:
-  - Low-level systems programming (C/C++/Rust)
-  - ESP32-based embedded projects
-  - Self-hosted & cloud infrastructure
-fun_fact: "goes from kernel configs to frontend pixels in the same afternoon"
-```
-
-<br/>
-
 <!-- ══════════════════════════ TECH STACK ═════════════════════════ -->
 <div align="center">
 <h3><code>◈ tech stack</code></h3>
