@@ -8,9 +8,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=CBA6F7&center=true&vCenter=true&repeat=true&width=640&height=42&lines=hobbyist+developer+from+Bandung%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Gentoo+Linux+%7C+Hyprland+%7C+ThinkPad+T480;C+%2F+C%2B%2B+%2F+TypeScript+%2F+PHP+%2F+Arduino+%2F+ESP32;building+things+from+kernel+to+cloud;2000%2B+commits+and+still+going+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
-
-### `02 · TECHNOLOGY`
-
 <br/>
 
 <table>
@@ -84,7 +81,6 @@
 <div align="center">
 <!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
 <div align="center">
-<h3><code>◈ github stats</code></h3>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ye-Shaiyoe&theme=tokyonight&hide_border=true" width="49%" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&hide=css,html,php,lua,blade,hack,javascript,go" width="34%" />
 
