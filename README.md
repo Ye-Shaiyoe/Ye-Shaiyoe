@@ -1,9 +1,6 @@
 
 <div align="center">
 
-<!-- ═══════════════════════════ TOP WAVE ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:cba6f7&height=220&section=header&text=Ye-Shaiyoe&fontSize=70&fontColor=cdd6f4&fontAlignY=35&desc=%E2%9C%A6+CODE+%C2%B7+TINKER+%C2%B7+REPEAT+%E2%9C%A6&descAlignY=58&descSize=20&descColor=a6adc8&animation=fadeIn" />
-
 <!-- ═══════════════════════ TYPING ANIMATION ══════════════════════ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=CBA6F7&center=true&vCenter=true&repeat=true&width=640&height=42&lines=hobbyist+developer+from+Bandung%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Gentoo+Linux+%7C+Hyprland+%7C+ThinkPad+T480;C+%2F+C%2B%2B+%2F+TypeScript+%2F+PHP+%2F+Arduino+%2F+ESP32;building+things+from+kernel+to+cloud;2000%2B+commits+and+still+going+%E2%9A%A1" alt="Typing SVG" />
 
