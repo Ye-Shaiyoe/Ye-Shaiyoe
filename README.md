@@ -49,7 +49,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,rtos&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberryp&theme=dark" />
 
 <br/><br/>
 
@@ -78,7 +78,8 @@
 <div align="center">
 <!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ye-Shaiyoe&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://count.getloli.com/@Ye-Shaiyoe?name=Ye-Shaiyoe&theme=rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=1" alt="Profile Visitor Counter"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&hide=css,html,php,lua,blade,hack,matlab,javascript,go" width="34%" />
 
 <br/>
